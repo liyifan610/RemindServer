@@ -1,4 +1,4 @@
-var EventProxy = require('EventProxy');
+var EventProxy = require('eventproxy');
 
 /**
  * @param  {connection: connection of the database}
